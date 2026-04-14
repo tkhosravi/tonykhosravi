@@ -1,5 +1,15 @@
 ---
-title: Le Blog de Tony
+layout: home
+title: Accueil
 ---
 
-# Le Blog de Tony : un simpe espace de partage d'expérience
+# Bienvenue sur mon blog : un simpe espace de partage d'expérience
+
+Je partage ici mes passions :
+- **Course à pied** : Trails et équipement.
+- **Musique** : Commuting, aventures, et découvertes.
+- **Tech** : Projets open source et développement web.
+<!-- - **Entrepreunarait** : Projets open source et développement web. --> 
+
+
+[Voir tous les articles →](/posts/)
