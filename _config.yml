@@ -1,4 +1,43 @@
-title: "Blog de Tony"
-author: "Tony 伊龙 Khosravi Dehkourdi"
+title: "Blog d'un Persan chinois"
 description: "Trail, musique et entrepreunariat"
-theme: minima
+url: "https://tkhosravi.github.io"  # Remplace par ton URL GitHub Pages
+baseurl: "/tonykhosravi"
+
+
+remote_theme: mmistakes/so-simple-theme
+theme: jekyll-theme-so-simple
+
+locale: "fr-FR"
+
+# Thème So Simple
+# logo: "/assets/images/logo.png"  # Ajoute un logo (optionnel)
+
+# Auteur (pour les métadonnées)
+author:
+  name: "Tony 伊龙 Khosravi Dehkourdi"
+#  email: "tony@tonydomain.com"  # Optionnel
+#  url: "https://tonykhosravi.github.io/tony-blog/"
+#  twitter: "tony_twitter"      # Optionnel
+#  mastodon: "tony@framapiaf.org" # Ton compte Mastodon
+
+# Plugins utiles
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Paramètres du thème
+so_simple:
+  date_format: "%d %B %Y"      # Format des dates (ex: 12 avril 2026)
+  reading_time: true           # Affiche le temps de lecture
+  words_per_minute: 200        # Mots par minute pour le calcul
+  comments: false              # Désactive les commentaires (tu peux les activer plus tard)
+  share: true                  # Boutons de partage (Twitter, Mastodon, etc.)
+  related: true                # Articles similaires en bas de page
+
+# Exclure les fichiers inutiles
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
