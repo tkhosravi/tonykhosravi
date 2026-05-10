@@ -1,20 +1,21 @@
-# Tony’s Blog 🏃‍♂️🌍💻
+# Blog d'un Persan chinois 🇮🇷🇨🇳🏃‍♂️🌍💻
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://tonykhosravi.github.io/tony-blog/)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Un blog minimaliste pour partager mes passions :
-- **Course à pied** (trails, ultra-marathons, équipement)
-- **Voyages** (commuting, aventures)
-- **Tech** (projets open source, développement web)
+Un un simpe espace de partage de mes expériences et passions :
+- **Course à pied** (trails, marathons)
+<!--- - **Voyages** (commuting, aventures)
+**Musique** (commuting, aventures)
+- **Tech** (projets open source, développement web)-->
 
-🔗 **[Lire le blog](https://tonykhosravi.github.io/tony-blog/)**
+🔗 **[Lire le blog](https://tkhosravi.github.io/tonykhosravi/)**
 
 ---
 
 ## 📂 Structure du repo
-
-<!--tony-blog/
+```
+tony-blog/
 ├── _posts/          # Articles en Markdown (ex: 2026-04-12-mon-ulatrail.md)
 ├── _config.yml      # Configuration Jekyll
 ├── assets/          # Images, CSS, JS
@@ -23,7 +24,7 @@ Un blog minimaliste pour partager mes passions :
 ├── _layouts/        # Mises en page (default.html)
 ├── _pages/          # Pages statiques (ex: À propos)
 └── index.md         # Page d'accueil
---> 
+```
 ---
 
 ## 🚀 Comment contribuer ?

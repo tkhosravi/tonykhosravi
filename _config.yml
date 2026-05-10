@@ -3,9 +3,7 @@ description: "Trail, musique et entrepreunariat"
 url: "https://tkhosravi.github.io"  # Remplace par ton URL GitHub Pages
 baseurl: "/tonykhosravi"
 
-
 remote_theme: mmistakes/so-simple-theme
-theme: jekyll-theme-so-simple
 
 locale: "fr-FR"
 
