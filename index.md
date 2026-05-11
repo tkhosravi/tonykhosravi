@@ -3,7 +3,7 @@ layout: home
 title: Accueil
 ---
 
-# Bienvenue sur mon blog : un simpe espace de partage d'expérience
+# Bienvenue sur ce simple espace de partage d'expérience
 
 Je partage ici mes passions :
 - **Course à pied** : Trails et équipement.
