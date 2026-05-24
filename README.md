@@ -1,9 +1,9 @@
 # Blog d'un Persan chinois 🇮🇷🇨🇳🏃‍♂️🌍💻
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://tonykhosravi.github.io/tony-blog/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://tonykhosravi.github.io/tonykhosravi/)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Un un simpe espace de partage de mes expériences et passions :
+Un simple espace de partage de mes expériences et passions :
 - **Course à pied** (trails, marathons)
 <!--- - **Voyages** (commuting, aventures)
 **Musique** (commuting, aventures)
