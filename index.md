@@ -11,5 +11,3 @@ Je partage ici mes passions :
 - **Tech** : Projets open source et développement web.
 <!-- - **Entrepreunarait** : Projets open source et développement web. --> 
 
-
-[Voir tous les articles →](/posts/)

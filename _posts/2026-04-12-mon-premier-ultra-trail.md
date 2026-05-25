@@ -3,8 +3,6 @@ title: "Mon premier Ultra"
 layout: "post"
 date: 2026-05-18
 categories: [trail, course]
-strava: "https://www.strava.com/activities/17976610952"  # Lien vers ton activité
-# image: "/assets/images/oleron-trail.jpg"         # Image de couverture
 
 ---
 Mon premier ultra devait être un premier accomplissement dans ce monde très particulier des ultra-trailers. Au lieu de ça, c'est devenu un premier apprentissage, une première brique pour atteindre un objectif qui me hante depuis maintenant plusieurs mois : participer et terminer la Diagonale des Fous.
@@ -29,14 +27,14 @@ Cela fait donc 2 ans que j'essaie de m'inscrire à une course pas trop loin tous
 ## Prêt au départ
 Mon sac d'hydratation est prêt, j'embarque avec moi le matériel obligatoire ainsi qu'un paquet de gels, comptes, barres et autres gaufres. Pour ce premier ultra, j'en prends beaucoup car je veux pouvoir varier autant que possible histoire d'éviter tout problème gastrique. Clairement, j'en ai trop pris, en considérant qu'il y avait des ravitos solides tous les 25 kilomètres et que j'avais le luxe d'avoir une assistance en la personne d'Antoine, mon beau-frère. J'ai également déposé un sac de délestage que je récupèrerai à mi-course avec un t-shirt de rechange, une paire de chaussures de rechange et de quoi recharger mon sac en nourriture. En y repensant, j'aurais dû beaucoup plus me reposer sur mon assistance plutôt que de perdre du temps au ravitaillement de mi-course. 
 
-![Matériel](/images/2026-04-12-mon-premier-ultra-trail/materiel.png)
+![Matériel]({{ "/images/2026-04-12-mon-premier-ultra-trail/materiel.png" | relative_url }})
 
 4h du matin, départ pour le lieu du départ, à la citadelle de Château d'Oléron. Antoine fait mon chauffeur, il est déjà dans son rôle d'assistance, j'ai la chance d'être tranquille de ce côté-là. Il a prévu de me recharger en boisson isotonique à chaque ravito, histoire que je n'ai pas à faire la manip moi-même. J'ai l'impression d'être un coureur-élite. Nous arrivons très tôt, mais au moins, pas de mauvaise surprise. Je m'échauffe, je vide ma vessie, deux fois, et c'est parti pour le départ à 5h30 sous la voix de Patrick Montel.
 
 ##  Première partie - De Château d'Oléron à Grand-Village-Plage
 Le départ de nuit se fait sur un rythme très tranquille. Comme à mon habitude, je me suis mis derrière, je n'aime pas être devant dans la foule. Nous somme contraints de marcher après un peu plus de 1 km de course au passage d'une passerelle. C'était attendu car indiqué dans le carnet de bord d'avant-course. Après des passages plutôt urbains, nous passons Saint-Trojan pour traverser la forêt domaniale de Saint-Trojan-les-Bains. Cette partie est agréable, plutôt roulante avec quelques relances. 
 
-![Ciel voilé](/images/2026-04-12-mon-premier-ultra-trail/ciel-voile.png)
+![Ciel voilé]({{ "/images/2026-04-12-mon-premier-ultra-trail/ciel-voile.png" | relative_url }})
 
 Le soleil est en train de se lever mais nous n'aurons pas le luxe d'y assister du fait du ciel voilé. La forêt est aussi l'occasion d'avoir droit au premier ravito, liquide, au 12ème km. Premier couac au niveau de l'assistance, Antoine n'est pas là. Du coup, je me verse ma boisson isotonique tout seul. Je m'inquiète un peu car ce n'est pas son genre. Ne regardant pas mon téléphone pour rester concentré, j'apprends plus tard que l'organisation avait interdit l'accès aux environs de ce ravito. Je continue d'avancer sur un bon rythme aux alentours de 7/km. La sortie de la forêt nous amène sur la première plage de la course, la première d'une bien longue série. Celle-ci est plutôt praticable du fait du sable dur encore humide, seuls les entrée et sortie de la plage sont cassantes. Je les fais d'ailleurs en marchant. Puis, retour dans la forêt avant d'arriver au premier ravito solide à Grand-Village-Plage. C'est à la descente d'une marche que j'ai la première alerte à mon genou droit. Rien de trop douloureux, mais le spectre du TFL commence à pointer le bout de son nez. J'essaie de ne pas y prêter attention et me requinque comme il faut au ravito qui est bien fourni.
 
@@ -50,11 +48,11 @@ Après une partie plus roulante (hors plage donc), j'arrive quand même à relan
 ### Troisième partie - De Domino à...
 À la sortie du ravito, je croise mon assistance enrichie de toute la famille du côté de ma femme. Victor, Nathan, Léonie, Nolwenn, Francette, Christian, Vincent. Et le plus important, Soan, mon fils. Ça me rebooste ! Je me pose, vide une nouvelle fois mes chaussures, constate que j'ai des ampoules au pied gauche (les chaussures que j'avais étaient sans doute trop grandes, surtout pour mon pied gauche qui est le plus court) mais pas vraiment gênant car sur le dessus, recharge mes bidons et repars motivé pour continuer encore un peu. Après quelques hectomètres, je ressens le besoin d'appeler ma femme qui est en route avec mon deuxième fils. J'ai la voix chevrotante, les larmes aux yeux car je sais que je n'arriverai pas au bout à cause de ce foutu TFL. Mais Noémie me rebooste, me dis de tenir jusqu'à ce qu'elle arrive avec Aloïs, que c'est déjà bien d'être arrivé jusqu'ici malgré cette douleur. Ça me fait du bien et je continue d'avance comme je peux. 
 
-![En route pour Chassiron](/images/2026-04-12-mon-premier-ultra-trail/course.jpg)
+![En route pour Chassiron]({{ "/images/2026-04-12-mon-premier-ultra-trail/course.jpg" | relative_url }})
 
 Nouvelle plage, et nouveau chemin de croix dans ce satané sable mou. Après le 52ème kilomètre, je cours sur des parties plus roulantes et plus dures, ce qui me soulage un peu. Je me rends compte que relancer est finalement pire que de courir en continu, même à un rythme léger. Je me force à garder le plus possible une allure course pour éviter d'appuyer systématiquement sur mon genou, l'élan me permettant d'atténuer la douleur du TFL. J'arrive au 5ème ravito, au phare du Chassiron. Je recroise mes supporters qui m'indiquent que Noémie et Aloïs sont arrivés et sont un peu plus loin. Je relance afin de les rejoindre. Je les retrouve enfin au Bois, et je craque. Les larmes coulent sur mes joues, je suis si heureux de les voir et si frustré de savoir que je ne pourrais pas terminer. Je les quitte, je relance un dernière fois mais une dernière plage a fini de m'achever. Je pense qu'avoir réussi à tenir pour voir ma famille a finalement remplacé mon objectif initial et que mon corps ne voyais pas pourquoi aller plus loin. Je m'arrête à 65 km, au port de plaisance de Saint-Denis-d'Oléron.
 
-![TFL](/images/2026-04-12-mon-premier-ultra-trail/tfl.png)
+![TFL]({{ "/images/2026-04-12-mon-premier-ultra-trail/tfl.png" | relative_url }})
 
 # Epilogue
 Ce premier Ultra est donc un premier échec riche en apprentissages. Il me permet de repartir avec une liste d'erreurs et donc de points à améliorer afin de préparer mon deuxième gros objectif de l'année qui a lieu au milieu de l'été. J'en ressors grandi et avec une conviction tout de même : le chemin sera long jusqu'à la Diag', mais je sais que je peux y arriver car malgré ma blessure et mon manque de préparation, j'ai pu faire 65 km sur les 100. Je sais déjà que je ferai en sorte d'être au départ de l'édition 2027 afin de "réparer" cet échec, nécessaire à l'atteinte de mon objectif ultime.

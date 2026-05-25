@@ -3,7 +3,7 @@ description: "Trail, musique et entrepreunariat"
 url: "https://tkhosravi.github.io"  # Remplace par ton URL GitHub Pages
 baseurl: "/tonykhosravi"
 
-remote_theme: "jekyll/minima@c6e74bb"  # Utilise le thème Minima de Jekyll
+remote_theme: "mmistakes/so-simple-theme@3.2.0"  # Utilise le thème So Simple
 
 locale: "fr-FR"
 
