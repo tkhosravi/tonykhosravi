@@ -1,18 +1,12 @@
-# Sample site navigation bar links
+# Navigation principale du site
 
-- title: Home
+- title: Accueil
   url: /
-- title: About
+- title: À propos
   url: /about/
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
+- title: Catégories
+  url: /categories/
+- title: Tags
+  url: /tags/
+# - title: Recherche
 #   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html

@@ -1,10 +1,12 @@
 ---
 title: "Mon premier Ultra"
 layout: "post"
-date: 2026-05-18
+date: 2026-04-12
 categories: [trail, course]
+tags: [ultra, Oléron, blessure, Diagonale-des-Fous]
 
 ---
+
 Mon premier ultra devait être un premier accomplissement dans ce monde très particulier des ultra-trailers. Au lieu de ça, c'est devenu un premier apprentissage, une première brique pour atteindre un objectif qui me hante depuis maintenant plusieurs mois : participer et terminer la Diagonale des Fous.
 
 # Pourquoi je cours 🏃

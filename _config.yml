@@ -1,22 +1,27 @@
 title: "Blog d'un Persan chinois"
 description: "Trail, musique et entrepreunariat"
-url: "https://tkhosravi.github.io"  # Remplace par ton URL GitHub Pages
+url: "https://tkhosravi.github.io"
 baseurl: "/tonykhosravi"
 
-remote_theme: "mmistakes/so-simple-theme@3.2.0"  # Utilise le thème So Simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 locale: "fr-FR"
 
-# Thème So Simple
-# logo: "/assets/images/logo.png"  # Ajoute un logo (optionnel)
-
-# Auteur (pour les métadonnées)
+# Auteur
 author:
   name: "Tony 伊龙 Khosravi Dehkourdi"
-#  email: "tony@tonydomain.com"  # Optionnel
-#  url: "https://tonykhosravi.github.io/tony-blog/"
-#  twitter: "tony_twitter"      # Optionnel
-#  mastodon: "tony@framapiaf.org" # Ton compte Mastodon
+  bio: "Développeur web passionné de trail, de musique et d'aventures. En route vers la Diagonale des Fous 🏃‍♂️🇷🇪"
+  # picture: "/images/avatar.jpg"  # Ajoute une photo de profil (optionnel)
+  links:
+    - title: "GitHub"
+      url: "https://github.com/tkhosravi"
+      icon: "fab fa-github"
+    - title: "Strava"
+      url: "https://www.strava.com/athletes/tkhosravi"  # Remplace par ton URL Strava
+      icon: "fab fa-strava"
+
+# Image Open Graph par défaut pour le partage social
+og_image: "/images/2026-04-12-mon-premier-ultra-trail/course.jpg"
 
 # Plugins utiles
 plugins:
@@ -27,10 +32,10 @@ plugins:
 # Paramètres du thème
 so_simple:
   date_format: "%d %B %Y"      # Format des dates (ex: 12 avril 2026)
-  reading_time: true           # Affiche le temps de lecture
+  read_time: true              # Affiche le temps de lecture
   words_per_minute: 200        # Mots par minute pour le calcul
   comments: false              # Désactive les commentaires (tu peux les activer plus tard)
-  share: true                  # Boutons de partage (Twitter, Mastodon, etc.)
+  share: true                  # Boutons de partage
   related: true                # Articles similaires en bas de page
 
 # Exclure les fichiers inutiles
